@@ -5,4 +5,4 @@
 - [Q4 — Connectionist Temporal Classification (CTC)](./q4.md)
 
 ---
-Note: the markdown files are written in Typora app; the equations may not rendered correctly by Github
+Note: the markdown files are written in Typora app; the equations may not be rendered correctly by Github
